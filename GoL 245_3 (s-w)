@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+        <!--<button id="start" style="float:right">Start</button>-->
+	<canvas id="game">
+	<script type="text/javascript" src="inhalt3.js"></script>
+	<script type="text/javascript" src="struktur2.js"></script>
+</body>
+</html>
